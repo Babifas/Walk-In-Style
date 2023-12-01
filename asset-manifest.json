@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Walk-In-Style/static/css/main.e43b4cd5.css",
+    "main.js": "/Walk-In-Style/static/js/main.3740c6e1.js",
+    "static/js/787.e4452ded.chunk.js": "/Walk-In-Style/static/js/787.e4452ded.chunk.js",
+    "static/media/homee.jpg": "/Walk-In-Style/static/media/homee.525f946427c559fc38ab.jpg",
+    "static/media/Home3.jpg": "/Walk-In-Style/static/media/Home3.01c96ec42aad91316591.jpg",
+    "static/media/Home1.jpg": "/Walk-In-Style/static/media/Home1.12f282c47157fbe0e8f4.jpg",
+    "static/media/Home22.jpg": "/Walk-In-Style/static/media/Home22.1e658844d92ca6f5a4de.jpg",
+    "static/media/SHOE LOGO.png": "/Walk-In-Style/static/media/SHOE LOGO.cc22c3c31dc4e325561d.png",
+    "index.html": "/Walk-In-Style/index.html",
+    "main.e43b4cd5.css.map": "/Walk-In-Style/static/css/main.e43b4cd5.css.map",
+    "main.3740c6e1.js.map": "/Walk-In-Style/static/js/main.3740c6e1.js.map",
+    "787.e4452ded.chunk.js.map": "/Walk-In-Style/static/js/787.e4452ded.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e43b4cd5.css",
+    "static/js/main.3740c6e1.js"
+  ]
+}
